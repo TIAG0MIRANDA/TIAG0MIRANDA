@@ -1,11 +1,13 @@
 <h1>Olá, Mundo!</h1>
 <p>
     Olá me chamo Tiago, sou um desenvolvedor web! <br>
-    Sou um grande fâ da programação e tecnologia! Por que com elas é capaz de mudar vidas <br>
+    Sou um grande fâ da programação e tecnologia! Por que com elas é capaz de mudar vidas 
+    <br>
+    <br>
 </p>
 
 ##
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
     <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
