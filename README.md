@@ -1,7 +1,7 @@
 <h1>Olá, Mundo!</h1>
 <p>
     Olá me chamo Tiago, sou um desenvolvedor web! <br>
-    Sou um grande fâ da programação e tecnologia! Por que com ela é capaz de mudar vidas <br>
+    Sou um grande fâ da programação e tecnologia! Por que com elas é capaz de mudar vidas <br>
 </p>
 
 ##
