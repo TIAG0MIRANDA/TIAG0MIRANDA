@@ -7,8 +7,12 @@
 
 ---
 
-### 🚀 Sobre mim
-Sou um entusiasta da tecnologia, sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Acredito que o equilibrio é uma parte essencial de modo geral para o desenvolvimento, e gosto de trazer um toque pessoal aos meus projetos.
+### 🎯 Sobre mim.
+Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML e CSS, dando meus primeiros passos no desenvolvimento web, sempre buscando evolução constante 🚀.
+
+Curioso por natureza, estou sempre aprendendo algo novo — seja sobre programação, idiomas ou o mundo ao meu redor. Meu objetivo? Me tornar um desenvolvedor full-stack 🌐, conquistar minha liberdade e, quem sabe, viver uma temporada no Canadá.
+
+Esse portfólio é só o começo da jornada — seja muito bem-vindo(a) ao meu multiverso! ✨
 
 ---
 
