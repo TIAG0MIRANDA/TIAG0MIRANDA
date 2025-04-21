@@ -3,7 +3,6 @@
 <img align="right" src="https://i.pinimg.com/736x/57/6d/2b/576d2b7bb3f01c28b319426c4fc91d3d.jpg" width="90px"> 
 
 🎵 **Entre batidas e melodias, é onde me encontro**   
-💻 Buscando adquirir conhecimento em desenvolvimento **full-stack**, com ênfase em **Front-end**.
 
 ---
 
