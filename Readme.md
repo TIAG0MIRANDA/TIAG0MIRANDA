@@ -31,11 +31,13 @@ Esse portfólio é só o começo da jornada — seja muito bem-vindo(a) ao meu m
 
 ---
 
- ### 🌐 Conecte-se comigo:
+ ### 🌐 📬 Minhas redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-tiago/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIAG0MIRANDA)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TiagosMultiverse)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otiaguinhom/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5KaTrc5tXhwI75gNz5EZr6?si=zWIHUjxjSo2pNEc7opNh-w)
+
 
 
 
