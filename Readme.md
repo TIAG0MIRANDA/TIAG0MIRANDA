@@ -7,7 +7,7 @@
 ---
 
 ### 🎯 Sobre mim.
-Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML e CSS, dando meus primeiros passos no desenvolvimento web, sempre buscando evolução constante 🚀.
+Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML, CSS e JS, dando meus primeiros passos no desenvolvimento web, sempre buscando evolução constante 🚀.
 
 Curioso por natureza, estou sempre aprendendo algo novo — seja sobre programação, idiomas ou o mundo ao meu redor. Meu objetivo? Me tornar um desenvolvedor full-stack 🌐, conquistar minha liberdade e, quem sabe, viver uma temporada no Canadá.
 
