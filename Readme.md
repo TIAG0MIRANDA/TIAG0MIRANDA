@@ -7,11 +7,16 @@
 ---
 
 ### 🎯 Sobre mim.
-Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML, CSS, JS e Bootstrap, dando meus primeiros passos no desenvolvimento web, sempre buscando evolução constante 🚀.
+Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML, CSS, JS, Bootstrap e Python, dando meus primeiros passos no desenvolvimento web, sempre buscando evolução constante 🚀.
 
 Curioso por natureza, estou sempre aprendendo algo novo seja sobre programação, idiomas ou o mundo ao meu redor. Meu objetivo? Me tornar um desenvolvedor full-stack e engenheiro de software 🌐, conquistar minha liberdade e, quem sabe, viver uma temporada no Canadá.
 
 Esse é só o começo da jornada seja, muito bem-vindo(a) ao meu multiverso! ✨
+
+---
+
+### 🎓 Educação.
+- Tecnologia em Análise e Desenvolvimento de Sistemas – PUCRS (em andamento)
 
 ---
 
@@ -22,6 +27,7 @@ Esse é só o começo da jornada seja, muito bem-vindo(a) ao meu multiverso! ✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 
@@ -37,11 +43,9 @@ Esse é só o começo da jornada seja, muito bem-vindo(a) ao meu multiverso! ✨
 
 ---
 
- ### 🌐 Minhas redes sociais:
+### 🌐 Contato: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-tiago/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TiagosMultiverse)
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otiaguinhom/)
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5KaTrc5tXhwI75gNz5EZr6?si=zWIHUjxjSo2pNEc7opNh-w)
+
 
 
 
