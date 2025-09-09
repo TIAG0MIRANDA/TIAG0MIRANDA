@@ -34,6 +34,10 @@ Esse é só o começo da jornada seja, muito bem-vindo(a) ao meu multiverso! ✨
 
 
   
+---
+
+### 🌐 Contato: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-tiago/)
 
 ---
 
@@ -41,10 +45,6 @@ Esse é só o começo da jornada seja, muito bem-vindo(a) ao meu multiverso! ✨
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=TIAG0MIRANDA&show_icons=true&theme=blue)
 ![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TIAG0MIRANDA&layout=compact&langs_count=7&theme=blue)
 
----
-
-### 🌐 Contato: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miranda-tiago/)
 
 
 
