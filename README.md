@@ -7,9 +7,9 @@
 ---
 
 ### 🎯 Sobre mim.
-Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Atualmente estudo HTML, CSS e JS, dando meus primeiros passos em T.I, sempre buscando evolução constante 🚀.
+Sou Tiago Miranda, desenvolvedor em formação, apaixonado por tecnologia e pela arte de transformar ideias em código. Sempre buscando evolução constante 🚀.
 
-Curioso por natureza, estou sempre aprendendo algo novo seja sobre programação, idiomas ou o mundo ao meu redor. Meu objetivo? Me tornar um desenvolvedor full-stack e engenheiro de software 🌐, conquistar minha liberdade e, quem sabe, viver uma temporada no Canadá.
+Curioso por natureza, estou sempre aprendendo algo novo seja sobre programação, idiomas ou o mundo ao meu redor. Meu objetivo? Me tornar um desenvolvedor full-stack e engenheiro de software 🌐 voltados a back-end e cloud, conquistar minha liberdade e, quem sabe, viver uma temporada no Canadá.
 
 Esse é só o começo da jornada — seja muito bem-vindo(a) ao meu multiverso! ✨
 
@@ -22,20 +22,24 @@ Esse é só o começo da jornada — seja muito bem-vindo(a) ao meu multiverso! 
 
 ### 🛠 Linguagens e Ferramentas:
 
+**Backend & Databases:**
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
+
+**Frontend & Outros:**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 
-
-
-  
 ---
 
 ### 🌐 Contato: 
